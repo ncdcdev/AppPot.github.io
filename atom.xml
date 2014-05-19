@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Roy Kim's External Storage]]></title>
+  <link href="http://AppPot.github.io/atom.xml" rel="self"/>
+  <link href="http://AppPot.github.io/"/>
+  <updated>2014-05-20T00:11:08+09:00</updated>
+  <id>http://AppPot.github.io/</id>
+  <author>
+    <name><![CDATA[Roy S. Kim]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopressでブログを作成する方法]]></title>
+    <link href="http://AppPot.github.io/blog/2014/05/18/memo-on-building-octopress-blog/"/>
+    <updated>2014-05-18T01:01:51+09:00</updated>
+    <id>http://AppPot.github.io/blog/2014/05/18/memo-on-building-octopress-blog</id>
+    <content type="html"><![CDATA[<p>Octopressでブログを構築するための手順等を説明するサイトは多くなるが、大抵うまく行かなかった。多分RubyやRuby On Railsの経験がないからかもしれない。どっちにしろ初心者には難しいとは思った。また実際のブログの作成等にも独自のコマンドをターミナルから打つ必要があるので非エンジニアには無理なツールだと思った。</p>
+
+<p>とりあえず、覚え書き；</p>
+
+<ul>
+<li>以下のサイトの手順で一番素直にできた。
+
+<ul>
+<li><a href="http://onigra.github.io/blog/2013/04/28/introduction-of-octopress/">【何番煎じ】OctopressとGitHub Pagesを使用したブログの構築手順</a></li>
+</ul>
+</li>
+<li>以下のサイトは使用方法等を参考にした。
+
+<ul>
+<li><a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/">OctopressでGitHub無料ブログ構築。sourceをBitbucket管理。簡単ガイド！</a></li>
+</ul>
+</li>
+<li>rakeから始まるコマンドはそのままでは実行できず、全て「bundle exec」をrakeコマンドの前につける必要があった。これを分かるまでちょっと苦労した。</li>
+<li>今使っているテーマは以下から。しかしあまり好きではない。
+
+<ul>
+<li><a href="https://github.com/alexharris/octopress-flat/">octopress-flat</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The First Blogging]]></title>
+    <link href="http://AppPot.github.io/blog/2014/05/18/the-first-blogging/"/>
+    <updated>2014-05-18T00:39:45+09:00</updated>
+    <id>http://AppPot.github.io/blog/2014/05/18/the-first-blogging</id>
+    <content type="html"><![CDATA[<p>これはOctopressを使った初めてのブログ投稿テストです</p>
+]]></content>
+  </entry>
+  
+</feed>

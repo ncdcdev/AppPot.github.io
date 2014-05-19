@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://AppPot.github.io/blog/2014/05/18/the-first-blogging/</loc>
+        <lastmod>2014-05-18T10:03:15+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://AppPot.github.io/blog/2014/05/18/memo-on-building-octopress-blog/</loc>
+        <lastmod>2014-05-18T10:03:07+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://AppPot.github.io/about/</loc>
+        <lastmod>2014-05-18T00:59:16+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://AppPot.github.io/blog/archives/</loc>
+        <lastmod>2014-05-18T10:03:15+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://AppPot.github.io/</loc>
+        <lastmod>2014-05-18T10:03:15+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://AppPot.github.io/robots.txt</loc>
+        <lastmod>2014-05-17T23:58:41+09:00</lastmod>
+    </url>
+</urlset>
